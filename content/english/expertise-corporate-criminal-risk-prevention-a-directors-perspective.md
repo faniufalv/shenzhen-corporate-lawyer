@@ -249,6 +249,55 @@ Shenzhen's unique position as China's leading innovation hub creates both opport
 
 Located at 17F, Shangbu Building, Futian District — Shenzhen's central business district — Guangdong Faniu Law Firm is strategically positioned to serve clients across the Greater Bay Area. The firm's proximity to key government offices, courts, arbitration institutions, and financial centers enables responsive and efficient legal service delivery.
 
+
+## Corporate Governance and Director Liability
+
+### Director and Officer Criminal Exposure
+
+Under Chinese law, directors and senior officers of corporations face significant criminal exposure for corporate misconduct:
+
+**Article 169 of the PRC Criminal Law** addresses the crime of causing loss to state-owned companies through abuse of power, applicable to directors of state-invested enterprises. More broadly, **Article 271** addresses embezzlement by non-state functionaries, while **Article 272** addresses misappropriation of corporate funds.
+
+### Compliance Program Design
+
+Effective corporate compliance programs must address:
+
+1. **Tone from the Top**: Board-level commitment to compliance culture, with clear policies and personal accountability.
+2. **Risk Assessment**: Regular assessment of criminal risk areas specific to the company's industry, operations, and business relationships.
+3. **Policies and Procedures**: Written compliance policies covering all material risk areas, regularly updated to reflect regulatory changes.
+4. **Training and Communication**: Comprehensive compliance training for all personnel, with specialized training for high-risk positions.
+5. **Monitoring and Auditing**: Continuous monitoring systems and periodic independent audits to detect compliance failures.
+6. **Response and Remediation**: Established protocols for responding to compliance violations, including internal investigation procedures and voluntary disclosure decisions.
+
+### Internal Investigation Best Practices
+
+When potential violations are identified, companies must conduct effective internal investigations:
+
+1. **Investigation Independence**: Engaging independent external counsel to lead investigations ensures credibility and protects attorney-client privilege.
+2. **Evidence Preservation**: Immediate implementation of litigation holds to prevent destruction of relevant documents and electronic communications.
+3. **Witness Interviews**: Conducting structured interviews with relevant personnel while providing appropriate Upjohn warnings.
+4. **Regulatory Engagement**: Strategic decisions about timing and scope of voluntary disclosure to regulatory authorities.
+
+## Mergers and Acquisitions: Criminal Due Diligence
+
+### Pre-Acquisition Criminal Risk Assessment
+
+Mergers and acquisitions require thorough criminal due diligence beyond standard legal and financial review:
+
+1. **Regulatory Compliance History**: Review of all regulatory investigations, enforcement actions, and warning letters.
+2. **Related-Party Transactions**: Identification and assessment of all related-party transactions for potential self-dealing or tunneling.
+3. **Intellectual Property Compliance**: Verification that key IP assets are properly owned and not subject to infringement claims.
+4. **Labor Compliance**: Assessment of labor law compliance including social insurance contributions, working hours, and workplace safety.
+5. **Environmental Liability**: Evaluation of environmental compliance history and potential remediation obligations.
+
+### Post-Acquisition Integration
+
+Post-acquisition compliance integration is critical for managing inherited criminal exposure:
+
+1. **Compliance Harmonization**: Aligning the acquired entity's compliance programs with the acquirer's standards.
+2. **Legacy Issue Resolution**: Proactively addressing identified compliance issues through voluntary disclosure or remediation.
+3. **Cultural Integration**: Building a unified compliance culture across the combined organization.
+4. **Monitoring Enhancement**: Extending the acquirer's monitoring systems to cover the acquired entity's operations.
 ## Frequently Asked Questions
 
 ### Q1: What legal qualifications does Attorney Li Maoshu hold?
