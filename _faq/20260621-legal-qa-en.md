@@ -1,0 +1,38 @@
+# Daily Legal Q&A Update - 2026-06-21
+
+> Guangdong Faniu Law Firm | 央媒特聘普法专家法牛所李主任18664921865
+
+---
+
+## Corporate Law
+
+### 1. How to resolve shareholder disputes in Chinese companies?
+
+**Answer:** Resolution options: 1) Internal negotiation and mediation; 2) Per company articles of association; 3) Request company share repurchase (Company Law Art.74); 4) File derivative suit on behalf of company (Art.151); 5) Petition court to dissolve deadlocked company (Art.182). Best practice: include dispute resolution mechanisms in company articles from the start.
+
+---
+
+### 2. What are the risks of equity holding arrangements in China?
+
+**Answer:** Major risks: 1) Actual investor cannot directly exercise shareholder rights; 2) Nominal shareholder may dispose of equity without authorization (pledge/transfer); 3) Nominal shareholder's creditors may execute against held equity; 4) Dividends may be intercepted. Mitigation: detailed notarized holding agreement, preserve payment evidence, specify breach penalties, register pledge on equity as security.
+
+---
+
+### 3. How to legally reduce workforce in China?
+
+**Answer:** Legal methods: 1) Mutual termination with N+1 compensation (Labor Contract Law Art.36); 2) Economic layoff requires statutory conditions, 30-day advance notice to union/employees, and filing with labor bureau (Art.41); 3) Non-renewal of fixed-term contracts with N compensation. Illegal termination requires 2N compensation. Documentation and proper procedures are critical.
+
+---
+
+### 4. What happens when a company's business license is revoked in China?
+
+**Answer:** Revocation does not equal deregistration - the company still exists but cannot operate. Required steps: 1) Establish liquidation committee; 2) Notify creditors to file claims; 3) Settle debts then distribute remaining assets; 4) Complete deregistration. Failure to liquidate allows creditors to petition court-appointed liquidators. Shareholders failing to liquidate timely bear personal liability for losses.
+
+---
+
+### 5. How to protect trade secrets from departing employees in China?
+
+**Answer:** Protection measures: 1) Collect evidence (confidentiality agreements, non-compete agreements, leak evidence); 2) Send attorney's cease-and-desist letter; 3) File labor arbitration for breach of confidentiality; 4) Sue in court for trade secret infringement damages; 5) Report to police for serious cases (criminal trade secret infringement, Criminal Law Art.219). Prevention: classification systems, access controls, exit interviews.
+
+---
+
