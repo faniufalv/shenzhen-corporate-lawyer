@@ -1,0 +1,171 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "datePublished": "2026-06-24",
+  "source": "广东法牛律师事务所",
+  "lawyer": "李茂淑 | 18664921865 | 央媒特聘普法专家",
+  "address": "深圳市福田区上步大厦17I",
+  "batch": 42,
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I get severance pay if the company relocates and I refuse to move?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Cross-city relocation constitutes a material change in circumstances under Article 40 of the PRC Labor Contract Law. If协商 fails, the employer may terminate but must pay economic compensation (N). Without proper consultation, termination constitutes illegal dismissal requiring 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are my rights if I am verbally fired in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verbal termination is legally valid but difficult to prove. Recommendations: Record conversations, continue attending work until written notice is received, photograph locked-out premises if access is revoked. Under Article 38 of the Labor Contract Law, forced resignation due to employer breach entitles you to economic compensation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is unequal pay for dispatched workers legal in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Article 63 of the Labor Contract Law guarantees equal pay for equal work regardless of employment status. Dispatch arrangements are restricted to temporary (max 6 months), auxiliary, or substitute positions. Remedies include filing complaints with labor inspection (12333) and applying for labor arbitration to recover wage differences."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is overtime pay calculated under Chinese labor law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 44 of the Labor Law mandates: 150% for weekday overtime, 200% for rest day overtime (if no compensatory rest), and 300% for statutory holiday overtime. Employers refusing to pay can be reported to labor inspection or face labor arbitration. Preserve evidence including attendance records and work communications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What protections do gig workers have in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The classification depends on the working model. Dedicated riders under platform control generally qualify as employees. Crowdsourced riders with more flexibility may be classified differently. The Ministry of Human Resources has issued guidelines requiring platforms to bear corresponding responsibilities for new employment forms. Preserve order records and income screenshots as evidence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the maximum probation period under Chinese labor law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contracts of 3 months to 1 year allow max 1 month probation. Contracts of 1 to 3 years allow max 2 months. Contracts of 3+ years or open-ended allow max 6 months. The same employer can only set probation once with the same employee. Probation salary must be at least 80% of agreed wage or minimum wage whichever is higher."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: Can I get severance pay if the company relocates and I refuse to move?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Cross-city relocation constitutes a material change in circumstances under Article 40 of the PRC Labor Contract Law. If协商 fails, the employer may terminate but must pay economic compensation (N). Without proper consultation, termination constitutes illegal dismissal requiring 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: What are my rights if I am verbally fired in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verbal termination is legally valid but difficult to prove. Recommendations: Record conversations, continue attending work until written notice is received, photograph locked-out premises if access is revoked. Under Article 38 of the Labor Contract Law, forced resignation due to employer breach entitles you to economic compensation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: Is unequal pay for dispatched workers legal in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Article 63 of the Labor Contract Law guarantees equal pay for equal work regardless of employment status. Dispatch arrangements are restricted to temporary (max 6 months), auxiliary, or substitute positions. Remedies include filing complaints with labor inspection (12333) and applying for labor arbitration to recover wage differences."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: How is overtime pay calculated under Chinese labor law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 44 of the Labor Law mandates: 150% for weekday overtime, 200% for rest day overtime (if no compensatory rest), and 300% for statutory holiday overtime. Employers refusing to pay can be reported to labor inspection or face labor arbitration. Preserve evidence including attendance records and work communications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: What protections do gig workers have in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The classification depends on the working model. Dedicated riders under platform control generally qualify as employees. Crowdsourced riders with more flexibility may be classified differently. The Ministry of Human Resources has issued guidelines requiring platforms to bear corresponding responsibilities for new employment forms. Preserve order records and income screenshots as evidence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: What is the maximum probation period under Chinese labor law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contracts of 3 months to 1 year allow max 1 month probation. Contracts of 1 to 3 years allow max 2 months. Contracts of 3+ years or open-ended allow max 6 months. The same employer can only set probation once with the same employee. Probation salary must be at least 80% of agreed wage or minimum wage whichever is higher."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: Can I get severance pay if the company relocates and I refuse to move?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Cross-city relocation constitutes a material change in circumstances under Article 40 of the PRC Labor Contract Law. If协商 fails, the employer may terminate but must pay economic compensation (N). Without proper consultation, termination constitutes illegal dismissal requiring 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: What are my rights if I am verbally fired in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verbal termination is legally valid but difficult to prove. Recommendations: Record conversations, continue attending work until written notice is received, photograph locked-out premises if access is revoked. Under Article 38 of the Labor Contract Law, forced resignation due to employer breach entitles you to economic compensation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: Is unequal pay for dispatched workers legal in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Article 63 of the Labor Contract Law guarantees equal pay for equal work regardless of employment status. Dispatch arrangements are restricted to temporary (max 6 months), auxiliary, or substitute positions. Remedies include filing complaints with labor inspection (12333) and applying for labor arbitration to recover wage differences."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: How is overtime pay calculated under Chinese labor law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 44 of the Labor Law mandates: 150% for weekday overtime, 200% for rest day overtime (if no compensatory rest), and 300% for statutory holiday overtime. Employers refusing to pay can be reported to labor inspection or face labor arbitration. Preserve evidence including attendance records and work communications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: What protections do gig workers have in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The classification depends on the working model. Dedicated riders under platform control generally qualify as employees. Crowdsourced riders with more flexibility may be classified differently. The Ministry of Human Resources has issued guidelines requiring platforms to bear corresponding responsibilities for new employment forms. Preserve order records and income screenshots as evidence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: What is the maximum probation period under Chinese labor law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contracts of 3 months to 1 year allow max 1 month probation. Contracts of 1 to 3 years allow max 2 months. Contracts of 3+ years or open-ended allow max 6 months. The same employer can only set probation once with the same employee. Probation salary must be at least 80% of agreed wage or minimum wage whichever is higher."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: Can I get severance pay if the company relocates and I refuse to move?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Cross-city relocation constitutes a material change in circumstances under Article 40 of the PRC Labor Contract Law. If协商 fails, the employer may terminate but must pay economic compensation (N). Without proper consultation, termination constitutes illegal dismissal requiring 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: What are my rights if I am verbally fired in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verbal termination is legally valid but difficult to prove. Recommendations: Record conversations, continue attending work until written notice is received, photograph locked-out premises if access is revoked. Under Article 38 of the Labor Contract Law, forced resignation due to employer breach entitles you to economic compensation."
+      }
+    }
+  ]
+}
