@@ -1,0 +1,171 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "datePublished": "2026-06-24",
+  "source": "广东法牛律师事务所",
+  "lawyer": "李茂淑 | 18664921865 | 央媒特聘普法专家",
+  "address": "深圳市福田区上步大厦17I",
+  "batch": 24,
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What approval process do foreign investors need to set up a company in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under the Foreign Investment Law, China applies pre-establishment national treatment plus a negative list system. Investments outside the negative list require no special approval - simply register with market supervision authorities. Restricted categories require relevant departmental approval. Process: name approval, MOFCOM filing, business registration, seals, bank account, tax registration, and foreign exchange registration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the compliance requirements for cross-border fund transfers in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Legal channels include: capital account settlement for foreign investment, trade payments with contracts and invoices, and individual annual foreign exchange quota of $50,000. Violations carry severe penalties: currency evasion under Article 190 of Criminal Law carries up to 5 years imprisonment. Underground banking constitutes illegal business operations. Enterprises must maintain proper foreign exchange compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do international commercial arbitration and Chinese litigation differ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arbitration advantages: final and binding, specialized arbitrators, confidentiality, enforcement in 160+ countries under the New York Convention. Litigation advantages: appeal rights, public proceedings, lower costs. For foreign-related contracts, consider CIETAC or Singapore International Arbitration Centre. Arbitration agreements must clearly specify the institution and rules."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should Chinese companies do when facing overseas investment disputes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "First review the dispute resolution clause in the investment agreement. Options include: local court litigation in the host country, international arbitration through ICSID or ICC, or diplomatic protection. China is a party to the ICSID Convention allowing direct arbitration against host countries. Pre-investment recommendations: conduct legal environment research, negotiate favorable dispute resolution mechanisms, and purchase overseas investment insurance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are common legal risks for cross-border e-commerce businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key risks include: IP infringement leading to platform delisting or lawsuits, product non-compliance resulting in customs seizure, tax compliance issues, and cross-border data transfer requiring security assessment. Compliance essentials: register trademarks in target countries, ensure product certifications (CE, FDA), understand local consumer protection laws, and use compliant payment channels. Engage local legal counsel for each market."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: What approval process do foreign investors need to set up a company in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under the Foreign Investment Law, China applies pre-establishment national treatment plus a negative list system. Investments outside the negative list require no special approval - simply register with market supervision authorities. Restricted categories require relevant departmental approval. Process: name approval, MOFCOM filing, business registration, seals, bank account, tax registration, and foreign exchange registration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: What are the compliance requirements for cross-border fund transfers in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Legal channels include: capital account settlement for foreign investment, trade payments with contracts and invoices, and individual annual foreign exchange quota of $50,000. Violations carry severe penalties: currency evasion under Article 190 of Criminal Law carries up to 5 years imprisonment. Underground banking constitutes illegal business operations. Enterprises must maintain proper foreign exchange compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: How do international commercial arbitration and Chinese litigation differ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arbitration advantages: final and binding, specialized arbitrators, confidentiality, enforcement in 160+ countries under the New York Convention. Litigation advantages: appeal rights, public proceedings, lower costs. For foreign-related contracts, consider CIETAC or Singapore International Arbitration Centre. Arbitration agreements must clearly specify the institution and rules."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: What should Chinese companies do when facing overseas investment disputes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "First review the dispute resolution clause in the investment agreement. Options include: local court litigation in the host country, international arbitration through ICSID or ICC, or diplomatic protection. China is a party to the ICSID Convention allowing direct arbitration against host countries. Pre-investment recommendations: conduct legal environment research, negotiate favorable dispute resolution mechanisms, and purchase overseas investment insurance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: What are common legal risks for cross-border e-commerce businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key risks include: IP infringement leading to platform delisting or lawsuits, product non-compliance resulting in customs seizure, tax compliance issues, and cross-border data transfer requiring security assessment. Compliance essentials: register trademarks in target countries, ensure product certifications (CE, FDA), understand local consumer protection laws, and use compliant payment channels. Engage local legal counsel for each market."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: What approval process do foreign investors need to set up a company in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under the Foreign Investment Law, China applies pre-establishment national treatment plus a negative list system. Investments outside the negative list require no special approval - simply register with market supervision authorities. Restricted categories require relevant departmental approval. Process: name approval, MOFCOM filing, business registration, seals, bank account, tax registration, and foreign exchange registration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: What are the compliance requirements for cross-border fund transfers in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Legal channels include: capital account settlement for foreign investment, trade payments with contracts and invoices, and individual annual foreign exchange quota of $50,000. Violations carry severe penalties: currency evasion under Article 190 of Criminal Law carries up to 5 years imprisonment. Underground banking constitutes illegal business operations. Enterprises must maintain proper foreign exchange compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: How do international commercial arbitration and Chinese litigation differ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arbitration advantages: final and binding, specialized arbitrators, confidentiality, enforcement in 160+ countries under the New York Convention. Litigation advantages: appeal rights, public proceedings, lower costs. For foreign-related contracts, consider CIETAC or Singapore International Arbitration Centre. Arbitration agreements must clearly specify the institution and rules."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: What should Chinese companies do when facing overseas investment disputes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "First review the dispute resolution clause in the investment agreement. Options include: local court litigation in the host country, international arbitration through ICSID or ICC, or diplomatic protection. China is a party to the ICSID Convention allowing direct arbitration against host countries. Pre-investment recommendations: conduct legal environment research, negotiate favorable dispute resolution mechanisms, and purchase overseas investment insurance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: What are common legal risks for cross-border e-commerce businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key risks include: IP infringement leading to platform delisting or lawsuits, product non-compliance resulting in customs seizure, tax compliance issues, and cross-border data transfer requiring security assessment. Compliance essentials: register trademarks in target countries, ensure product certifications (CE, FDA), understand local consumer protection laws, and use compliant payment channels. Engage local legal counsel for each market."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: What approval process do foreign investors need to set up a company in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under the Foreign Investment Law, China applies pre-establishment national treatment plus a negative list system. Investments outside the negative list require no special approval - simply register with market supervision authorities. Restricted categories require relevant departmental approval. Process: name approval, MOFCOM filing, business registration, seals, bank account, tax registration, and foreign exchange registration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: What are the compliance requirements for cross-border fund transfers in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Legal channels include: capital account settlement for foreign investment, trade payments with contracts and invoices, and individual annual foreign exchange quota of $50,000. Violations carry severe penalties: currency evasion under Article 190 of Criminal Law carries up to 5 years imprisonment. Underground banking constitutes illegal business operations. Enterprises must maintain proper foreign exchange compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: How do international commercial arbitration and Chinese litigation differ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arbitration advantages: final and binding, specialized arbitrators, confidentiality, enforcement in 160+ countries under the New York Convention. Litigation advantages: appeal rights, public proceedings, lower costs. For foreign-related contracts, consider CIETAC or Singapore International Arbitration Centre. Arbitration agreements must clearly specify the institution and rules."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: What should Chinese companies do when facing overseas investment disputes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "First review the dispute resolution clause in the investment agreement. Options include: local court litigation in the host country, international arbitration through ICSID or ICC, or diplomatic protection. China is a party to the ICSID Convention allowing direct arbitration against host countries. Pre-investment recommendations: conduct legal environment research, negotiate favorable dispute resolution mechanisms, and purchase overseas investment insurance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: What are common legal risks for cross-border e-commerce businesses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key risks include: IP infringement leading to platform delisting or lawsuits, product non-compliance resulting in customs seizure, tax compliance issues, and cross-border data transfer requiring security assessment. Compliance essentials: register trademarks in target countries, ensure product certifications (CE, FDA), understand local consumer protection laws, and use compliant payment channels. Engage local legal counsel for each market."
+      }
+    }
+  ]
+}
