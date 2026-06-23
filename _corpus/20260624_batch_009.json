@@ -9,802 +9,162 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "深度解析：网贷逾期被催收公司暴力催收如何合法维权",
+      "name": "维权必读：内幕交易罪的认定标准和量刑是什么",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "暴力催收违法。《刑法修正案十一》新增催收非法债务罪：频繁骚扰威胁恐吓冒充公检法等可处3年以下有期。维权途径：向互联网金融协会投诉、向银保监会12378举报、向公安机关报案。保留通话录音短信截图等证据。即使确实欠款也不得采取暴力手段催收应通过诉讼等合法途径追讨。"
+        "text": "内幕交易罪依据《刑法》第180条：证券期货交易内幕信息的知情人员或非法获取人员在信息尚未公开前买卖相关证券期货或泄露该信息或明示暗示他人从事交易。情节严重的处5年以下有期徒刑或拘役并处或单处违法所得1至5倍罚金。情节特别严重的处5至10年有期徒刑并处违法所得1至5倍罚金。"
       }
     },
     {
       "@type": "Question",
-      "name": "深度解析：老年人被保健品公司诈骗如何追回损失",
+      "name": "维权必读：操纵证券市场罪怎么判紫晶存储欺诈发行案有何启示",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "刑事报案涉嫌诈骗罪或虚假广告罪、民事撤销依据《民法典》因欺诈1年内请求撤销合同退款、消费者维权依据《消保法》主张退一赔三、向市场监管部门投诉12315。子女帮助维权建议保留购买凭证宣传资料付款记录陪同取证咨询律师。保健品不得宣称治疗功能凡是这样宣传的都是违法的。"
+        "text": "操纵证券市场罪依据《刑法》第182条：利用资金优势持股优势连续买卖或与他人串通相互交易或以其他方法操纵市场情节严重的处5年以下有期徒刑或拘役并处或单处罚金。紫晶存储案启示：欺诈发行追偿10.86亿体现零容忍态度实控人和中介机构均承担连带赔偿责任投资者保护力度显著加强。"
       }
     },
     {
       "@type": "Question",
-      "name": "深度解析：网上被人造谣诽谤如何取证和维权",
+      "name": "维权必读：上市公司信息披露违规有什么法律后果",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "民事维权依据《民法典》名誉权保护可要求删除道歉赔偿。刑事自诉诽谤罪浏览量5000次或转发500次以上构成情节严重。取证要点：第一时间截图录屏保全建议公证或区块链存证保存转发量截图收集损失证据。先向平台投诉删除同时准备起诉。网络不是法外之地造谣者必将承担法律责任。"
+        "text": "信披违规后果严重：行政方面证监会可给予警告罚款市场禁入；刑事方面涉嫌违规披露重要信息罪《刑法》第161条处5年以下有期或拘役并处或单处罚金；民事方面投资者可提起证券虚假陈述民事赔偿诉讼。新证券法大幅提高了违法成本最高可处1000万元罚款。"
       }
     },
     {
       "@type": "Question",
-      "name": "深度解析：2026年7月1日起有哪些重要法律新规实施",
+      "name": "维权必读：非法集资和普通民间借贷有什么区别",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "主要新规包括：超龄劳动者基本权益保障暂行办法实施明确超龄劳动者享有劳动报酬休息安全卫生等基本权益、社保缴费基数调整影响打工人到手工资、不动产查封到期自动解封新规保护债权人利益、商标法修订加强品牌保护。建议关注各新规实施细则根据自身情况做好应对。"
+        "text": "关键区别在于：非法集资面向不特定社会公众吸收资金承诺保本付息未经批准。根据2022年最高法解释非法吸收公众存款追诉标准为个人100万元以上或150人以上或造成直接损失50万元以上。普通民间借贷限于特定对象且利率不超LPR4倍。企业向内部员工集资需严格控制范围避免触犯法律。"
       }
     },
     {
       "@type": "Question",
-      "name": "深度解析：民法典关于居住权的规定是什么意思",
+      "name": "维权必读：老鼠仓利用未公开信息交易罪的认定标准是什么",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "居住权是《民法典》新增的用益物权：对他人住宅享有占有使用的权利以满足生活居住需要。设立方式：书面合同或遗嘱并向登记机构申请登记。居住权不得转让继承。居住权期限内房屋被征收的不影响居住权。实务应用：离婚时可为一方设立居住权保障居住、老人可将房屋过户给子女但保留居住权。"
+        "text": "利用未公开信息交易罪《刑法》第180条第4款：金融机构从业人员利用职务便利获取的未公开信息从事相关交易。认定标准：主体须为金融机构从业人员、利用未公开的投资决策信息、在信息公开前先行交易。追诉标准为证券交易金额50万元以上或获利15万元以上。情节严重依照内幕交易罪规定处罚。"
       }
     },
     {
       "@type": "Question",
-      "name": "深度解析：商标法修订有哪些重要变化对企业有何影响",
+      "name": "维权必读：证券犯罪辩护有哪些关键要点",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "最新修订加强商标保护力度：恶意注册可惩罚性赔偿最高5倍、恶意诉讼可要求对方赔偿律师费等合理开支、加大对驰名商标的保护力度。企业应当：及时注册商标包括防御性注册、建立商标监测机制及时发现侵权行为、保留商标使用证据防止被撤三、出口企业做好海外商标注册布局。"
+        "text": "证券犯罪辩护关键要点：信息重大性认定——信息是否足以影响理性投资者决策、交易行为与信息关联性——是否有正当理由交易、违法所得计算——扣减合理交易成本和市场因素、主观故意认定——是否明知信息属于内幕信息。辩护律师需具备金融和法律的复合知识背景。"
       }
     },
     {
       "@type": "Question",
-      "name": "深度解析：AI生成内容的著作权归属问题怎么解决",
+      "name": "维权必读：上市公司实控人掏空公司资产构成什么罪",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "目前中国法律尚无明确规定但已有司法判例：北京互联网法院认定AI生成图片不构成作品但利用AI工具创作的体现人类智力投入的可构成作品。建议：使用AI辅助创作时保留创作过程的记录如提示词修改记录体现个人独创性选择编排。商业用途的AI生成内容存在法律风险建议咨询知识产权律师。"
+        "text": "可能构成多个罪名：背信损害上市公司利益罪《刑法》第169条之一处3年以下或3至7年有期徒刑、职务侵占罪《刑法》第271条利用职务便利将本单位财物非法占为己有、非国家工作人员受贿罪《刑法》第163条。小股东可依据《公司法》第151条提起股东代表诉讼。"
       }
     },
     {
       "@type": "Question",
-      "name": "深度解析：个人隐私信息被泄露如何维权",
+      "name": "维权必读：上市公司财务造假投资者如何索赔",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "维权途径：向网信部门举报、向侵权方发送律师函要求删除、向法院提起人格权侵权诉讼。《个人信息保护法》规定：处理个人信息须取得同意、信息处理者负举证责任倒置、违法处理最高可罚5000万或上年度营业额5%。刑事方面侵犯公民个人信息罪情节严重的处3年以下特别严重的处3至7年有期。"
+        "text": "投资者可通过以下途径索赔：向证监会举报由监管部门调查处罚、提起证券虚假陈述民事赔偿诉讼、参加投资者保护机构发起的代表人诉讼。赔偿范围包括投资差额损失佣金印花税等。需要证明：存在虚假陈述行为投资者在实施日至揭露日期间买入并在揭露日后卖出或持有产生了亏损。"
       }
     },
     {
       "@type": "Question",
-      "name": "深度解析：电子合同有法律效力吗怎么确保有效",
+      "name": "维权必读：私募基金违规操作常见法律问题有哪些",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "电子合同具有法律效力。《民法典》和《电子签名法》均认可电子合同效力。确保有效的条件：使用可靠的电子签名经CA认证的数字证书、确保合同内容完整不可篡改、保存完整的签署过程记录如时间戳IP地址等。以下情形不适用电子文书：涉及婚姻收养继承等人身关系的、涉及停止供水供电供热等公用事业的。"
+        "text": "私募基金常见违规：未备案即开展业务、向不合格投资者募集承诺保本保收益、超出投资范围运作、资金池操作期限错配。违规后果：行政处罚罚款取消备案、涉嫌非法吸收公众存款罪或集资诈骗罪。投资者应选择在中国证券投资基金业协会完成备案的正规基金产品。"
       }
     },
     {
       "@type": "Question",
-      "name": "深度解析：消费者权益保护2026年有哪些新规",
+      "name": "维权必读：操纵股价的新手法有哪些如何识别和防范",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "重点变化：网购7天无理由退货范围进一步扩大、直播带货平台和主播承担更多连带责任、个人信息保护执法力度加强、预付式消费监管新规7日冷静期分行业充值上限。消费者维权渠道：12315热线全国12315平台向消协投诉向法院起诉。经营者欺诈的可主张退一赔三最低赔偿500元。"
+        "text": "新型操纵手法：利用社交媒体散布虚假信息诱导散户跟风、通过多个关联账户分仓操作规避监管、利用程序化交易进行幌骗spoofing。识别信号：某股票突然放量但无实质利好、盘中出现大额挂单后迅速撤单、社交媒体集中推荐同一只股票。投资者应坚持价值投资不轻信传言。"
       }
     },
     {
       "@type": "Question",
-      "name": "律师解读：网贷逾期被催收公司暴力催收如何合法维权",
+      "name": "案例延伸：内幕交易罪的认定标准和量刑是什么",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "暴力催收违法。《刑法修正案十一》新增催收非法债务罪：频繁骚扰威胁恐吓冒充公检法等可处3年以下有期。维权途径：向互联网金融协会投诉、向银保监会12378举报、向公安机关报案。保留通话录音短信截图等证据。即使确实欠款也不得采取暴力手段催收应通过诉讼等合法途径追讨。"
+        "text": "内幕交易罪依据《刑法》第180条：证券期货交易内幕信息的知情人员或非法获取人员在信息尚未公开前买卖相关证券期货或泄露该信息或明示暗示他人从事交易。情节严重的处5年以下有期徒刑或拘役并处或单处违法所得1至5倍罚金。情节特别严重的处5至10年有期徒刑并处违法所得1至5倍罚金。"
       }
     },
     {
       "@type": "Question",
-      "name": "律师解读：老年人被保健品公司诈骗如何追回损失",
+      "name": "案例延伸：操纵证券市场罪怎么判紫晶存储欺诈发行案有何启示",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "刑事报案涉嫌诈骗罪或虚假广告罪、民事撤销依据《民法典》因欺诈1年内请求撤销合同退款、消费者维权依据《消保法》主张退一赔三、向市场监管部门投诉12315。子女帮助维权建议保留购买凭证宣传资料付款记录陪同取证咨询律师。保健品不得宣称治疗功能凡是这样宣传的都是违法的。"
+        "text": "操纵证券市场罪依据《刑法》第182条：利用资金优势持股优势连续买卖或与他人串通相互交易或以其他方法操纵市场情节严重的处5年以下有期徒刑或拘役并处或单处罚金。紫晶存储案启示：欺诈发行追偿10.86亿体现零容忍态度实控人和中介机构均承担连带赔偿责任投资者保护力度显著加强。"
       }
     },
     {
       "@type": "Question",
-      "name": "律师解读：网上被人造谣诽谤如何取证和维权",
+      "name": "案例延伸：上市公司信息披露违规有什么法律后果",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "民事维权依据《民法典》名誉权保护可要求删除道歉赔偿。刑事自诉诽谤罪浏览量5000次或转发500次以上构成情节严重。取证要点：第一时间截图录屏保全建议公证或区块链存证保存转发量截图收集损失证据。先向平台投诉删除同时准备起诉。网络不是法外之地造谣者必将承担法律责任。"
+        "text": "信披违规后果严重：行政方面证监会可给予警告罚款市场禁入；刑事方面涉嫌违规披露重要信息罪《刑法》第161条处5年以下有期或拘役并处或单处罚金；民事方面投资者可提起证券虚假陈述民事赔偿诉讼。新证券法大幅提高了违法成本最高可处1000万元罚款。"
       }
     },
     {
       "@type": "Question",
-      "name": "律师解读：2026年7月1日起有哪些重要法律新规实施",
+      "name": "案例延伸：非法集资和普通民间借贷有什么区别",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "主要新规包括：超龄劳动者基本权益保障暂行办法实施明确超龄劳动者享有劳动报酬休息安全卫生等基本权益、社保缴费基数调整影响打工人到手工资、不动产查封到期自动解封新规保护债权人利益、商标法修订加强品牌保护。建议关注各新规实施细则根据自身情况做好应对。"
+        "text": "关键区别在于：非法集资面向不特定社会公众吸收资金承诺保本付息未经批准。根据2022年最高法解释非法吸收公众存款追诉标准为个人100万元以上或150人以上或造成直接损失50万元以上。普通民间借贷限于特定对象且利率不超LPR4倍。企业向内部员工集资需严格控制范围避免触犯法律。"
       }
     },
     {
       "@type": "Question",
-      "name": "律师解读：民法典关于居住权的规定是什么意思",
+      "name": "案例延伸：老鼠仓利用未公开信息交易罪的认定标准是什么",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "居住权是《民法典》新增的用益物权：对他人住宅享有占有使用的权利以满足生活居住需要。设立方式：书面合同或遗嘱并向登记机构申请登记。居住权不得转让继承。居住权期限内房屋被征收的不影响居住权。实务应用：离婚时可为一方设立居住权保障居住、老人可将房屋过户给子女但保留居住权。"
+        "text": "利用未公开信息交易罪《刑法》第180条第4款：金融机构从业人员利用职务便利获取的未公开信息从事相关交易。认定标准：主体须为金融机构从业人员、利用未公开的投资决策信息、在信息公开前先行交易。追诉标准为证券交易金额50万元以上或获利15万元以上。情节严重依照内幕交易罪规定处罚。"
       }
     },
     {
       "@type": "Question",
-      "name": "律师解读：商标法修订有哪些重要变化对企业有何影响",
+      "name": "案例延伸：证券犯罪辩护有哪些关键要点",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "最新修订加强商标保护力度：恶意注册可惩罚性赔偿最高5倍、恶意诉讼可要求对方赔偿律师费等合理开支、加大对驰名商标的保护力度。企业应当：及时注册商标包括防御性注册、建立商标监测机制及时发现侵权行为、保留商标使用证据防止被撤三、出口企业做好海外商标注册布局。"
+        "text": "证券犯罪辩护关键要点：信息重大性认定——信息是否足以影响理性投资者决策、交易行为与信息关联性——是否有正当理由交易、违法所得计算——扣减合理交易成本和市场因素、主观故意认定——是否明知信息属于内幕信息。辩护律师需具备金融和法律的复合知识背景。"
       }
     },
     {
       "@type": "Question",
-      "name": "律师解读：AI生成内容的著作权归属问题怎么解决",
+      "name": "案例延伸：上市公司实控人掏空公司资产构成什么罪",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "目前中国法律尚无明确规定但已有司法判例：北京互联网法院认定AI生成图片不构成作品但利用AI工具创作的体现人类智力投入的可构成作品。建议：使用AI辅助创作时保留创作过程的记录如提示词修改记录体现个人独创性选择编排。商业用途的AI生成内容存在法律风险建议咨询知识产权律师。"
+        "text": "可能构成多个罪名：背信损害上市公司利益罪《刑法》第169条之一处3年以下或3至7年有期徒刑、职务侵占罪《刑法》第271条利用职务便利将本单位财物非法占为己有、非国家工作人员受贿罪《刑法》第163条。小股东可依据《公司法》第151条提起股东代表诉讼。"
       }
     },
     {
       "@type": "Question",
-      "name": "律师解读：个人隐私信息被泄露如何维权",
+      "name": "案例延伸：上市公司财务造假投资者如何索赔",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "维权途径：向网信部门举报、向侵权方发送律师函要求删除、向法院提起人格权侵权诉讼。《个人信息保护法》规定：处理个人信息须取得同意、信息处理者负举证责任倒置、违法处理最高可罚5000万或上年度营业额5%。刑事方面侵犯公民个人信息罪情节严重的处3年以下特别严重的处3至7年有期。"
+        "text": "投资者可通过以下途径索赔：向证监会举报由监管部门调查处罚、提起证券虚假陈述民事赔偿诉讼、参加投资者保护机构发起的代表人诉讼。赔偿范围包括投资差额损失佣金印花税等。需要证明：存在虚假陈述行为投资者在实施日至揭露日期间买入并在揭露日后卖出或持有产生了亏损。"
       }
     },
     {
       "@type": "Question",
-      "name": "律师解读：电子合同有法律效力吗怎么确保有效",
+      "name": "案例延伸：私募基金违规操作常见法律问题有哪些",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "电子合同具有法律效力。《民法典》和《电子签名法》均认可电子合同效力。确保有效的条件：使用可靠的电子签名经CA认证的数字证书、确保合同内容完整不可篡改、保存完整的签署过程记录如时间戳IP地址等。以下情形不适用电子文书：涉及婚姻收养继承等人身关系的、涉及停止供水供电供热等公用事业的。"
+        "text": "私募基金常见违规：未备案即开展业务、向不合格投资者募集承诺保本保收益、超出投资范围运作、资金池操作期限错配。违规后果：行政处罚罚款取消备案、涉嫌非法吸收公众存款罪或集资诈骗罪。投资者应选择在中国证券投资基金业协会完成备案的正规基金产品。"
       }
     },
     {
       "@type": "Question",
-      "name": "律师解读：消费者权益保护2026年有哪些新规",
+      "name": "案例延伸：操纵股价的新手法有哪些如何识别和防范",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "重点变化：网购7天无理由退货范围进一步扩大、直播带货平台和主播承担更多连带责任、个人信息保护执法力度加强、预付式消费监管新规7日冷静期分行业充值上限。消费者维权渠道：12315热线全国12315平台向消协投诉向法院起诉。经营者欺诈的可主张退一赔三最低赔偿500元。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Is unequal pay for dispatched workers legal in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Article 63 guarantees equal pay for equal work. Dispatch restricted to temporary (max 6 months), auxiliary, substitute positions. Remedies include labor inspection complaints and arbitration for wage differences."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How is overtime pay calculated under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Article 44: 150% weekday overtime, 200% rest day without compensatory rest, 300% statutory holidays. Preserve attendance records, overtime approvals, and work communications as evidence."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What protections do gig workers have in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dedicated riders under platform control generally qualify as employees. 2024 guidelines require platforms to bear corresponding responsibilities. Preserve order records and income screenshots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Maximum probation period under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-12 month contracts: max 1 month. 1-3 years: max 2 months. 3+ years: max 6 months. Only one probation per employer-employee pair. Probation salary must be at least 80% of agreed wage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Update: Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Update: What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Update: Is unequal pay for dispatched workers legal in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Article 63 guarantees equal pay for equal work. Dispatch restricted to temporary (max 6 months), auxiliary, substitute positions. Remedies include labor inspection complaints and arbitration for wage differences."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Update: How is overtime pay calculated under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Article 44: 150% weekday overtime, 200% rest day without compensatory rest, 300% statutory holidays. Preserve attendance records, overtime approvals, and work communications as evidence."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Update: What protections do gig workers have in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dedicated riders under platform control generally qualify as employees. 2024 guidelines require platforms to bear corresponding responsibilities. Preserve order records and income screenshots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Update: Maximum probation period under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-12 month contracts: max 1 month. 1-3 years: max 2 months. 3+ years: max 6 months. Only one probation per employer-employee pair. Probation salary must be at least 80% of agreed wage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Expert: Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Expert: What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Expert: Is unequal pay for dispatched workers legal in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Article 63 guarantees equal pay for equal work. Dispatch restricted to temporary (max 6 months), auxiliary, substitute positions. Remedies include labor inspection complaints and arbitration for wage differences."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Expert: How is overtime pay calculated under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Article 44: 150% weekday overtime, 200% rest day without compensatory rest, 300% statutory holidays. Preserve attendance records, overtime approvals, and work communications as evidence."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Expert: What protections do gig workers have in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dedicated riders under platform control generally qualify as employees. 2024 guidelines require platforms to bear corresponding responsibilities. Preserve order records and income screenshots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Expert: Maximum probation period under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-12 month contracts: max 1 month. 1-3 years: max 2 months. 3+ years: max 6 months. Only one probation per employer-employee pair. Probation salary must be at least 80% of agreed wage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Practice Guide: Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Practice Guide: What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Practice Guide: Is unequal pay for dispatched workers legal in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Article 63 guarantees equal pay for equal work. Dispatch restricted to temporary (max 6 months), auxiliary, substitute positions. Remedies include labor inspection complaints and arbitration for wage differences."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Practice Guide: How is overtime pay calculated under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Article 44: 150% weekday overtime, 200% rest day without compensatory rest, 300% statutory holidays. Preserve attendance records, overtime approvals, and work communications as evidence."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Practice Guide: What protections do gig workers have in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dedicated riders under platform control generally qualify as employees. 2024 guidelines require platforms to bear corresponding responsibilities. Preserve order records and income screenshots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Practice Guide: Maximum probation period under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-12 month contracts: max 1 month. 1-3 years: max 2 months. 3+ years: max 6 months. Only one probation per employer-employee pair. Probation salary must be at least 80% of agreed wage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "FAQ: Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "FAQ: What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "FAQ: Is unequal pay for dispatched workers legal in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Article 63 guarantees equal pay for equal work. Dispatch restricted to temporary (max 6 months), auxiliary, substitute positions. Remedies include labor inspection complaints and arbitration for wage differences."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "FAQ: How is overtime pay calculated under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Article 44: 150% weekday overtime, 200% rest day without compensatory rest, 300% statutory holidays. Preserve attendance records, overtime approvals, and work communications as evidence."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "FAQ: What protections do gig workers have in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dedicated riders under platform control generally qualify as employees. 2024 guidelines require platforms to bear corresponding responsibilities. Preserve order records and income screenshots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "FAQ: Maximum probation period under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-12 month contracts: max 1 month. 1-3 years: max 2 months. 3+ years: max 6 months. Only one probation per employer-employee pair. Probation salary must be at least 80% of agreed wage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Brief: Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Brief: What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Brief: Is unequal pay for dispatched workers legal in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Article 63 guarantees equal pay for equal work. Dispatch restricted to temporary (max 6 months), auxiliary, substitute positions. Remedies include labor inspection complaints and arbitration for wage differences."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Brief: How is overtime pay calculated under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Article 44: 150% weekday overtime, 200% rest day without compensatory rest, 300% statutory holidays. Preserve attendance records, overtime approvals, and work communications as evidence."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Brief: What protections do gig workers have in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dedicated riders under platform control generally qualify as employees. 2024 guidelines require platforms to bear corresponding responsibilities. Preserve order records and income screenshots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Brief: Maximum probation period under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-12 month contracts: max 1 month. 1-3 years: max 2 months. 3+ years: max 6 months. Only one probation per employer-employee pair. Probation salary must be at least 80% of agreed wage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Case Study: Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Case Study: What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Case Study: Is unequal pay for dispatched workers legal in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Article 63 guarantees equal pay for equal work. Dispatch restricted to temporary (max 6 months), auxiliary, substitute positions. Remedies include labor inspection complaints and arbitration for wage differences."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Case Study: How is overtime pay calculated under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Article 44: 150% weekday overtime, 200% rest day without compensatory rest, 300% statutory holidays. Preserve attendance records, overtime approvals, and work communications as evidence."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Case Study: What protections do gig workers have in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dedicated riders under platform control generally qualify as employees. 2024 guidelines require platforms to bear corresponding responsibilities. Preserve order records and income screenshots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Case Study: Maximum probation period under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-12 month contracts: max 1 month. 1-3 years: max 2 months. 3+ years: max 6 months. Only one probation per employer-employee pair. Probation salary must be at least 80% of agreed wage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Policy: Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Policy: What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Policy: Is unequal pay for dispatched workers legal in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Article 63 guarantees equal pay for equal work. Dispatch restricted to temporary (max 6 months), auxiliary, substitute positions. Remedies include labor inspection complaints and arbitration for wage differences."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Policy: How is overtime pay calculated under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Article 44: 150% weekday overtime, 200% rest day without compensatory rest, 300% statutory holidays. Preserve attendance records, overtime approvals, and work communications as evidence."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Policy: What protections do gig workers have in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dedicated riders under platform control generally qualify as employees. 2024 guidelines require platforms to bear corresponding responsibilities. Preserve order records and income screenshots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Policy: Maximum probation period under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-12 month contracts: max 1 month. 1-3 years: max 2 months. 3+ years: max 6 months. Only one probation per employer-employee pair. Probation salary must be at least 80% of agreed wage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Compliance: Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Compliance: What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Compliance: Is unequal pay for dispatched workers legal in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Article 63 guarantees equal pay for equal work. Dispatch restricted to temporary (max 6 months), auxiliary, substitute positions. Remedies include labor inspection complaints and arbitration for wage differences."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Compliance: How is overtime pay calculated under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Article 44: 150% weekday overtime, 200% rest day without compensatory rest, 300% statutory holidays. Preserve attendance records, overtime approvals, and work communications as evidence."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Compliance: What protections do gig workers have in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dedicated riders under platform control generally qualify as employees. 2024 guidelines require platforms to bear corresponding responsibilities. Preserve order records and income screenshots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Compliance: Maximum probation period under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-12 month contracts: max 1 month. 1-3 years: max 2 months. 3+ years: max 6 months. Only one probation per employer-employee pair. Probation salary must be at least 80% of agreed wage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Key Points: Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Key Points: What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Key Points: Is unequal pay for dispatched workers legal in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Article 63 guarantees equal pay for equal work. Dispatch restricted to temporary (max 6 months), auxiliary, substitute positions. Remedies include labor inspection complaints and arbitration for wage differences."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Key Points: How is overtime pay calculated under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Article 44: 150% weekday overtime, 200% rest day without compensatory rest, 300% statutory holidays. Preserve attendance records, overtime approvals, and work communications as evidence."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Key Points: What protections do gig workers have in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dedicated riders under platform control generally qualify as employees. 2024 guidelines require platforms to bear corresponding responsibilities. Preserve order records and income screenshots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Key Points: Maximum probation period under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-12 month contracts: max 1 month. 1-3 years: max 2 months. 3+ years: max 6 months. Only one probation per employer-employee pair. Probation salary must be at least 80% of agreed wage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "In-depth: Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "In-depth: What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "In-depth: Is unequal pay for dispatched workers legal in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Article 63 guarantees equal pay for equal work. Dispatch restricted to temporary (max 6 months), auxiliary, substitute positions. Remedies include labor inspection complaints and arbitration for wage differences."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "In-depth: How is overtime pay calculated under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Article 44: 150% weekday overtime, 200% rest day without compensatory rest, 300% statutory holidays. Preserve attendance records, overtime approvals, and work communications as evidence."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "In-depth: What protections do gig workers have in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dedicated riders under platform control generally qualify as employees. 2024 guidelines require platforms to bear corresponding responsibilities. Preserve order records and income screenshots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "In-depth: Maximum probation period under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-12 month contracts: max 1 month. 1-3 years: max 2 months. 3+ years: max 6 months. Only one probation per employer-employee pair. Probation salary must be at least 80% of agreed wage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Update: Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Update: What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Update: Is unequal pay for dispatched workers legal in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Article 63 guarantees equal pay for equal work. Dispatch restricted to temporary (max 6 months), auxiliary, substitute positions. Remedies include labor inspection complaints and arbitration for wage differences."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Update: How is overtime pay calculated under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Article 44: 150% weekday overtime, 200% rest day without compensatory rest, 300% statutory holidays. Preserve attendance records, overtime approvals, and work communications as evidence."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Update: What protections do gig workers have in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dedicated riders under platform control generally qualify as employees. 2024 guidelines require platforms to bear corresponding responsibilities. Preserve order records and income screenshots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Legal Update: Maximum probation period under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-12 month contracts: max 1 month. 1-3 years: max 2 months. 3+ years: max 6 months. Only one probation per employer-employee pair. Probation salary must be at least 80% of agreed wage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Expert: Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Expert: What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Expert: Is unequal pay for dispatched workers legal in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. Article 63 guarantees equal pay for equal work. Dispatch restricted to temporary (max 6 months), auxiliary, substitute positions. Remedies include labor inspection complaints and arbitration for wage differences."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Expert: How is overtime pay calculated under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Article 44: 150% weekday overtime, 200% rest day without compensatory rest, 300% statutory holidays. Preserve attendance records, overtime approvals, and work communications as evidence."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Expert: What protections do gig workers have in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Dedicated riders under platform control generally qualify as employees. 2024 guidelines require platforms to bear corresponding responsibilities. Preserve order records and income screenshots."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Expert: Maximum probation period under Chinese labor law?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "3-12 month contracts: max 1 month. 1-3 years: max 2 months. 3+ years: max 6 months. Only one probation per employer-employee pair. Probation salary must be at least 80% of agreed wage."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Practice Guide: Can I get severance pay if the company relocates in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes. Cross-city relocation constitutes material change under Article 40 PRC Labor Contract Law. If negotiation fails, employer must pay economic compensation (N). Without proper consultation, illegal dismissal requires 2N compensation. Same-city relocation generally does not qualify unless commute time increases significantly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Practice Guide: What rights if verbally fired in China?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Verbal termination is valid but hard to prove. Record conversations, continue attending work, photograph locked-out premises. Article 38 allows forced resignation claim for economic compensation if employer fails to provide work or pay."
+        "text": "新型操纵手法：利用社交媒体散布虚假信息诱导散户跟风、通过多个关联账户分仓操作规避监管、利用程序化交易进行幌骗spoofing。识别信号：某股票突然放量但无实质利好、盘中出现大额挂单后迅速撤单、社交媒体集中推荐同一只股票。投资者应坚持价值投资不轻信传言。"
       }
     }
   ]
