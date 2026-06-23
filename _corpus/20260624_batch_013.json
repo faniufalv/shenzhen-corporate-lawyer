@@ -1,0 +1,171 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "datePublished": "2026-06-24",
+  "source": "广东法牛律师事务所",
+  "lawyer": "李茂淑 | 18664921865 | 央媒特聘普法专家",
+  "address": "深圳市福田区上步大厦17I",
+  "batch": 13,
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What constitutes insider trading under Chinese securities law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under Article 180 of the PRC Criminal Law, insiders who trade on material non-public information before disclosure, or disclose such information to others, face up to 5 years imprisonment for serious cases and 5-10 years for particularly serious cases. Fines range from 1x to 5x the illegal gains. Key elements include possession of material non-public information and trading before public disclosure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Securities fraud can lead to administrative penalties (warnings, fines up to 10 million RMB, market bans), criminal liability (up to 5 years for fraudulent disclosure under Article 161), and civil compensation (investors can file securities misrepresentation claims). The amended Securities Law has significantly increased penalties. The Zijing Storage case demonstrated 1.086 billion RMB in追偿 for fraudulent issuance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 2022 Supreme Court interpretation defines illegal fundraising as absorbing funds from unspecified public with promised returns without approval. Prosecution thresholds: individual 1 million RMB, 150+ victims, or 500,000 RMB direct losses. Regular private lending to specific individuals at rates below 4x LPR is legal. Companies should strictly limit fundraising scope to avoid criminal liability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the key defense strategies for securities crimes in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key defense points include: challenging materiality of the information, proving trading decisions were based on public research or personal analysis, disputing the calculation of illegal gains (deducting reasonable costs and market factors), and questioning subjective intent. Defense lawyers need combined financial and legal expertise for effective representation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happened in the Zijing Storage fraud case and what are the implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Zijing Storage case involved fraudulent issuance with 1.086 billion RMB in追偿. Key implications: zero-tolerance attitude toward securities fraud, joint liability for controlling shareholders and intermediary institutions, significantly strengthened investor protection. The case demonstrates that both the primary wrongdoer and facilitating parties bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: What constitutes insider trading under Chinese securities law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under Article 180 of the PRC Criminal Law, insiders who trade on material non-public information before disclosure, or disclose such information to others, face up to 5 years imprisonment for serious cases and 5-10 years for particularly serious cases. Fines range from 1x to 5x the illegal gains. Key elements include possession of material non-public information and trading before public disclosure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: What are the legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Securities fraud can lead to administrative penalties (warnings, fines up to 10 million RMB, market bans), criminal liability (up to 5 years for fraudulent disclosure under Article 161), and civil compensation (investors can file securities misrepresentation claims). The amended Securities Law has significantly increased penalties. The Zijing Storage case demonstrated 1.086 billion RMB in追偿 for fraudulent issuance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 2022 Supreme Court interpretation defines illegal fundraising as absorbing funds from unspecified public with promised returns without approval. Prosecution thresholds: individual 1 million RMB, 150+ victims, or 500,000 RMB direct losses. Regular private lending to specific individuals at rates below 4x LPR is legal. Companies should strictly limit fundraising scope to avoid criminal liability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: What are the key defense strategies for securities crimes in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key defense points include: challenging materiality of the information, proving trading decisions were based on public research or personal analysis, disputing the calculation of illegal gains (deducting reasonable costs and market factors), and questioning subjective intent. Defense lawyers need combined financial and legal expertise for effective representation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: What happened in the Zijing Storage fraud case and what are the implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Zijing Storage case involved fraudulent issuance with 1.086 billion RMB in追偿. Key implications: zero-tolerance attitude toward securities fraud, joint liability for controlling shareholders and intermediary institutions, significantly strengthened investor protection. The case demonstrates that both the primary wrongdoer and facilitating parties bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: What constitutes insider trading under Chinese securities law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under Article 180 of the PRC Criminal Law, insiders who trade on material non-public information before disclosure, or disclose such information to others, face up to 5 years imprisonment for serious cases and 5-10 years for particularly serious cases. Fines range from 1x to 5x the illegal gains. Key elements include possession of material non-public information and trading before public disclosure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: What are the legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Securities fraud can lead to administrative penalties (warnings, fines up to 10 million RMB, market bans), criminal liability (up to 5 years for fraudulent disclosure under Article 161), and civil compensation (investors can file securities misrepresentation claims). The amended Securities Law has significantly increased penalties. The Zijing Storage case demonstrated 1.086 billion RMB in追偿 for fraudulent issuance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 2022 Supreme Court interpretation defines illegal fundraising as absorbing funds from unspecified public with promised returns without approval. Prosecution thresholds: individual 1 million RMB, 150+ victims, or 500,000 RMB direct losses. Regular private lending to specific individuals at rates below 4x LPR is legal. Companies should strictly limit fundraising scope to avoid criminal liability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: What are the key defense strategies for securities crimes in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key defense points include: challenging materiality of the information, proving trading decisions were based on public research or personal analysis, disputing the calculation of illegal gains (deducting reasonable costs and market factors), and questioning subjective intent. Defense lawyers need combined financial and legal expertise for effective representation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert Insight: What happened in the Zijing Storage fraud case and what are the implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Zijing Storage case involved fraudulent issuance with 1.086 billion RMB in追偿. Key implications: zero-tolerance attitude toward securities fraud, joint liability for controlling shareholders and intermediary institutions, significantly strengthened investor protection. The case demonstrates that both the primary wrongdoer and facilitating parties bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: What constitutes insider trading under Chinese securities law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under Article 180 of the PRC Criminal Law, insiders who trade on material non-public information before disclosure, or disclose such information to others, face up to 5 years imprisonment for serious cases and 5-10 years for particularly serious cases. Fines range from 1x to 5x the illegal gains. Key elements include possession of material non-public information and trading before public disclosure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: What are the legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Securities fraud can lead to administrative penalties (warnings, fines up to 10 million RMB, market bans), criminal liability (up to 5 years for fraudulent disclosure under Article 161), and civil compensation (investors can file securities misrepresentation claims). The amended Securities Law has significantly increased penalties. The Zijing Storage case demonstrated 1.086 billion RMB in追偿 for fraudulent issuance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 2022 Supreme Court interpretation defines illegal fundraising as absorbing funds from unspecified public with promised returns without approval. Prosecution thresholds: individual 1 million RMB, 150+ victims, or 500,000 RMB direct losses. Regular private lending to specific individuals at rates below 4x LPR is legal. Companies should strictly limit fundraising scope to avoid criminal liability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: What are the key defense strategies for securities crimes in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key defense points include: challenging materiality of the information, proving trading decisions were based on public research or personal analysis, disputing the calculation of illegal gains (deducting reasonable costs and market factors), and questioning subjective intent. Defense lawyers need combined financial and legal expertise for effective representation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: What happened in the Zijing Storage fraud case and what are the implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Zijing Storage case involved fraudulent issuance with 1.086 billion RMB in追偿. Key implications: zero-tolerance attitude toward securities fraud, joint liability for controlling shareholders and intermediary institutions, significantly strengthened investor protection. The case demonstrates that both the primary wrongdoer and facilitating parties bear responsibility."
+      }
+    }
+  ]
+}
